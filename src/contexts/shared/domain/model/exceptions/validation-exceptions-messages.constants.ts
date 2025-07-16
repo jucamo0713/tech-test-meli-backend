@@ -1,0 +1,14 @@
+/**
+ * Enum representing validation exception message constants.
+ * This enum defines the messages used for various validation errors related to user input.
+ */
+export enum ValidationExceptionsMessagesConstants {
+    LIMIT_PARAM_MUST_BE_INTEGER = 'LIMIT_PARAM_MUST_BE_INTEGER',
+    LIMIT_PARAM_MUST_BE_NUMBER = 'LIMIT_PARAM_MUST_BE_NUMBER',
+    LIMIT_PARAM_MUST_BE_POSITIVE = 'LIMIT_PARAM_MUST_BE_POSITIVE',
+    LIMIT_PARAM_MUST_NOT_BE_EMPTY = 'LIMIT_PARAM_MUST_NOT_BE_EMPTY',
+    PAGE_PARAM_MUST_BE_INTEGER = 'PAGE_PARAM_MUST_BE_INTEGER',
+    PAGE_PARAM_MUST_BE_NUMBER = 'PAGE_PARAM_MUST_BE_NUMBER',
+    PAGE_PARAM_MUST_BE_POSITIVE = 'PAGE_PARAM_MUST_BE_POSITIVE',
+    PAGE_PARAM_MUST_NOT_BE_EMPTY = 'PAGE_PARAM_MUST_NOT_BE_EMPTY',
+}

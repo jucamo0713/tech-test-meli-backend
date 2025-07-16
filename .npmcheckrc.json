@@ -1,0 +1,12 @@
+{
+  "depcheck": {
+    "ignoreMatches": [
+      "@nestjs/schematics",
+      "rimraf",
+      "source-map-support",
+      "ts-loader",
+      "tsconfig-paths",
+      "@shared/*"
+    ]
+  }
+}
