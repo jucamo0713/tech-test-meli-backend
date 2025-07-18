@@ -17,6 +17,7 @@
         "./src/contexts/shared/*"
       ]
     },
+    "resolveJsonModule": true,
     "removeComments": true,
     "skipLibCheck": true,
     "sourceMap": true,

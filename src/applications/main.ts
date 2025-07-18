@@ -13,7 +13,7 @@ import { HttpExceptionFilter } from '@shared/infrastructure/driven-adapters/nest
  * This function initializes the application and listens to the specified port.
  * @returns A promise that resolves when the application is ready.
  */
-async function bootstrap() {
+export async function bootstrap() {
     const app = await NestFactory.create(AppModule);
     app.enableCors();
     app.useLogger(new AppLogger());
@@ -32,7 +32,9 @@ async function bootstrap() {
     return app;
 }
 
-void bootstrap().then(() => {
-    const logger = new Logger(bootstrap.name);
-    logger.log(`Application is running on: http://localhost:${process.env.PORT!}`);
-});
+if (require.main === module) {
+    void bootstrap().then(() => {
+        const logger = new Logger(bootstrap.name);
+        logger.log(`Application is running on: http://localhost:${process.env.PORT!}`);
+    });
+}
