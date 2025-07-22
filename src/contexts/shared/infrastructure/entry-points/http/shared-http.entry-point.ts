@@ -19,7 +19,6 @@ export class SharedHttpEntryPoint {
     @Get(SharedHttpUriConstants.HEALTH_CHECK_URI)
     @SwaggerEndpointDecorator({
         description: SharedSwaggerConstants.HEALTH_CHECK_DESCRIPTION,
-        requireAuth: false,
         response: { type: HttpDefaultResponse },
         summary: SharedSwaggerConstants.HEALTH_CHECK_SUMMARY,
     })

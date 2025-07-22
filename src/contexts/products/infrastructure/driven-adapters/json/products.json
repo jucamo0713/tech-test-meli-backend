@@ -1,0 +1,212 @@
+[
+  {
+    "asks": [
+      {
+        "answer": "Sí, tiene una garantía de 1 año.",
+        "text": "¿Viene con garantía?"
+      },
+      {
+        "answer": "Sí, es resistente al agua y apta para uso exterior.",
+        "text": "¿Es resistente al agua?"
+      },
+      {
+        "answer": "Utiliza un enchufe estándar de 110V.",
+        "text": "¿Qué tipo de enchufe utiliza?"
+      },
+      {
+        "answer": "Sí, incluye una manguera de 5 metros.",
+        "text": "¿Incluye manguera?"
+      },
+      {
+        "text": "¿Es fácil de transportar?"
+      }
+    ],
+    "cardDiscount": "Daviplata Mastercard",
+    "cardValueDiscount": 10,
+    "category": "Hidrolavadoras",
+    "characteristics": {
+      "accesorios": {
+        "manguera": "Manguera de 10 metros"
+      },
+      "especificaciones": {
+        "dimensiones": "30 x 30 x 30 cm",
+        "dimensiones2": "30 x 30 x 30 cm",
+        "dimensiones3": "30 x 30 x 30 cm",
+        "dimensiones4": "30 x 30 x 30 cm",
+        "dimensiones5": "30 x 30 x 30 cm",
+        "peso": "5.5 kg",
+        "peso2": "5.5 kg",
+        "peso3": "5.5 kg",
+        "peso4": "5.5 kg",
+        "peso5": "5.5 kg"
+      },
+      "linea": "K2",
+      "marca": "Karcher",
+      "potencia": "1800 W"
+    },
+    "description": "Lo que tienes que saber de este producto\n Voltaje: 110V.\n Con manguera incluida de 5m de largo.\n Tiene ruedas para facilitar su transporte.\n Apta para trabajar con agua a una temperatura máxima de 50 °C y así dejar tus superficies relucientes.\n Dosificador de detergente incorporado para potenciar el rendimiento de limpieza.\n Función de apagado automático incorporada al soltar el gatillo.\n Protector térmico integrado que protege al motor de sobrecalentamientos.\n Diseñada para poder utilizar distintos tipos de chorros con el fin de profundizar el lavado.\n Incluye 3 pistones de Acero.\n Accesorios incluidos.\n Consumo eficiente de agua que brinda un mejor lavado.",
+    "discount": 43,
+    "hasCardDiscount": true,
+    "id": "1",
+    "imagesPath": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_866729-MLA87774896644_072025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_902902-MLA88109444635_072025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_714165-MLA87486790217_072025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_646538-MLA87160277992_072025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_646538-MLA87160277992_072025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_913634-MLA87160317374_072025-F.webp"
+    ],
+    "information": [
+      "Hidrolavadora eléctrica TRENT HLT307 de 1400W, ideal para limpieza de alta presión.",
+      "Presión máxima de 1600 PSI y 110 Bar, perfecta para lavar vehículos y superficies exteriores.",
+      "Diseño compacto con ruedas para fácil transporte y almacenamiento.",
+      "Incluye manguera de 5 metros y accesorios para diferentes tipos de limpieza.",
+      "Voltaje: 110V, apta para uso doméstico y profesional."
+    ],
+    "maxInterestFreeInstallments": 3,
+    "mostShipped": true,
+    "name": "Hidrolavadora Electrica TRENT HLT307 1400W Alta presion 1600 Psi 110 Bar",
+    "navigation": [
+      "Herramientas",
+      "Herramientas Eléctricas",
+      "Limpieza",
+      "Hidrolavadoras",
+      "Hidrolavadora"
+    ],
+    "price": 500000,
+    "ranking": 5,
+    "rating": 3.4,
+    "reviews": [
+      {
+        "punctuation": 5,
+        "text": "Excelente producto, lo recomiendo mucho, es muy potente y fácil de usar."
+      },
+      {
+        "punctuation": 4,
+        "text": "Muy buena hidrolavadora, aunque el manual de instrucciones podría ser más claro."
+      },
+      {
+        "punctuation": 5,
+        "text": "La mejor compra que he hecho, limpia todo a la perfección."
+      },
+      {
+        "punctuation": 3,
+        "text": "Buen producto, pero llegó con un pequeño rasguño."
+      }
+    ],
+    "reviewsResume": "La hidrolavadora es potente, con materiales de buena calidad y una presión notable para diversas tareas de limpieza. Es fácil de usar y manipular, siendo adecuada para lavar coches, motos y superficies sin recalentar.",
+    "selectableCharacteristicLabel": "Color",
+    "selectableCharacteristics": [
+      "Negro",
+      "Amarillo",
+      "Azul",
+      "Rojo",
+      "Verde"
+    ],
+    "sellUnits": 5500,
+    "shippingPrice": 0,
+    "shopId": "1",
+    "shortDescription": "Optimiza tus tareas de limpieza con esta hidrolavadora TRENT, combinando potencia y seguridad en un diseño eficiente.",
+    "status": "Nuevo",
+    "stock": 53,
+    "totalRates": 2552
+  },
+  {
+    "asks": [
+      {
+        "answer": "Sí, tiene una garantía de 5 año.",
+        "text": "¿Viene con garantía?"
+      },
+      {
+        "text": "¿Incluye manguera?"
+      },
+      {
+        "text": "¿Es fácil de transportar?"
+      }
+    ],
+    "cardDiscount": "",
+    "cardValueDiscount": 0,
+    "category": "Otra",
+    "characteristics": {
+      "accesorios": {
+        "manguera": "Manguera de 10 metros"
+      },
+      "especificaciones": {
+        "dimensiones": "30 x 30 x 30 cm",
+        "dimensiones2": "30 x 30 x 30 cm",
+        "dimensiones3": "30 x 30 x 30 cm",
+        "dimensiones4": "30 x 30 x 30 cm",
+        "dimensiones5": "30 x 30 x 30 cm",
+        "peso": "5.5 kg",
+        "peso2": "5.5 kg",
+        "peso3": "5.5 kg",
+        "peso4": "5.5 kg",
+        "peso5": "5.5 kg"
+      },
+      "linea": "K2",
+      "marca": "Karcher",
+      "potencia": "1800 W"
+    },
+    "description": "Lo que tienes que saber de este producto\n Voltaje: 110V.\n Con manguera incluida de 5m de largo.\n Tiene ruedas para facilitar su transporte.\n Apta para trabajar con agua a una temperatura máxima de 50 °C y así dejar tus superficies relucientes.\n Dosificador de detergente incorporado para potenciar el rendimiento de limpieza.\n Función de apagado automático incorporada al soltar el gatillo.\n Protector térmico integrado que protege al motor de sobrecalentamientos.\n Diseñada para poder utilizar distintos tipos de chorros con el fin de profundizar el lavado.\n Incluye 3 pistones de Acero.\n Accesorios incluidos.\n Consumo eficiente de agua que brinda un mejor lavado.",
+    "discount": 0,
+    "hasCardDiscount": false,
+    "id": "2",
+    "imagesPath": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_866729-MLA87774896644_072025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_902902-MLA88109444635_072025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_714165-MLA87486790217_072025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_646538-MLA87160277992_072025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_646538-MLA87160277992_072025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_913634-MLA87160317374_072025-F.webp"
+    ],
+    "information": [
+      "Hidrolavadora eléctrica TRENT HLT307 de 1400W, ideal para limpieza de alta presión.",
+      "Presión máxima de 1600 PSI y 110 Bar, perfecta para lavar vehículos y superficies exteriores.",
+      "Diseño compacto con ruedas para fácil transporte y almacenamiento.",
+      "Incluye manguera de 5 metros y accesorios para diferentes tipos de limpieza.",
+      "Voltaje: 110V, apta para uso doméstico y profesional."
+    ],
+    "maxInterestFreeInstallments": 6,
+    "mostShipped": false,
+    "name": "Hidrolavadora Electrica TRENT HLT307 1400W Alta presion 1600 Psi 110 Bar",
+    "navigation": [
+      "Herramientas",
+      "Herramientas Eléctricas",
+      "Hogar"
+    ],
+    "price": 550000,
+    "ranking": 0,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "punctuation": 3,
+        "text": "Buen producto, pero llegó con un pequeño rasguño."
+      },
+      {
+        "punctuation": 4,
+        "text": "Muy buena hidrolavadora, aunque el manual de instrucciones podría ser más claro."
+      },
+      {
+        "punctuation": 5,
+        "text": "La mejor compra que he hecho, limpia todo a la perfección."
+      },
+      {
+        "punctuation": 3,
+        "text": "Buen producto, pero llegó con un pequeño rasguño."
+      }
+    ],
+    "reviewsResume": "La hidrolavadora es potente, con materiales de buena calidad y una presión notable para diversas tareas de limpieza. Es fácil de usar y manipular, siendo adecuada para lavar coches, motos y superficies sin recalentar.",
+    "selectableCharacteristicLabel": "modelo",
+    "selectableCharacteristics": [
+      "2020",
+      "2021"
+    ],
+    "sellUnits": 10,
+    "shippingPrice": 0,
+    "shopId": "1",
+    "shortDescription": "Un producto versátil y potente, ideal para tareas de limpieza exigentes en el hogar o en el trabajo.",
+    "status": "Usado",
+    "stock": 3,
+    "totalRates": 52
+  }
+]

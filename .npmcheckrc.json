@@ -7,7 +7,8 @@
       "ts-loader",
       "tsconfig-paths",
       "@nestjs/testing",
-      "@shared/*"
+      "@shared/*",
+      "@products/*"
     ]
   }
 }

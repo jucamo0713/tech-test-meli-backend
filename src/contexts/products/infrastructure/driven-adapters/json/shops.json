@@ -1,0 +1,24 @@
+[
+  {
+    "bannerPath":"https://http2.mlstatic.com/D_NQ_NP_947281-MLA77787733951_072024-OO.jpg",
+    "followers":1000,
+    "id":"1",
+    "imagePath":"https://http2.mlstatic.com/D_NQ_NP_769433-MLA77570437228_072024-G.jpg",
+    "isOfficial":true,
+    "name":"Karcher",
+    "productsCount":50,
+    "rating":4.9,
+    "sellUnits":5000
+  },
+  {
+    "bannerPath":"https://http2.mlstatic.com/D_NQ_NP_947281-MLA77787733951_072024-OO.jpg",
+    "followers":41,
+    "id":"2",
+    "imagePath":"https://http2.mlstatic.com/D_NQ_NP_769433-MLA77570437228_072024-G.jpg",
+    "isOfficial":true,
+    "name":"Trent",
+    "productsCount":90,
+    "rating":2.9,
+    "sellUnits":500000000
+  }
+]

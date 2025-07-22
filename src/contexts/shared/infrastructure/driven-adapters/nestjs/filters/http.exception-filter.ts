@@ -8,7 +8,6 @@ import {
     Logger,
 } from '@nestjs/common';
 import { ExceptionDto } from './exception.dto';
-import { ExceptionBase } from '@shared/domain/model/exceptions/exception-base';
 import { Response } from 'express';
 import { ErrorUtils } from '@shared/domain/usecase/utils/error.utils';
 import { AsyncRequestContext } from '@shared/domain/model/async-request-context';
@@ -35,12 +34,7 @@ export class HttpExceptionFilter implements ExceptionFilter {
         const response: ExceptionDto = new ExceptionDto();
         response.timestamp = Date.now().toString();
         response.pid = AsyncRequestContext.get('pid') ?? 'undefined';
-        if (exception instanceof ExceptionBase) {
-            this.logger.error(`[${this.catch.name}] ERROR :: CONTROLLED EXCEPTION OCCURRED IN ${exception.location}`);
-            response.httpStatusCode = exception.getStatus();
-            response.message = exception.message;
-            response.location = exception.location;
-        } else if (exception instanceof HttpException) {
+        if (exception instanceof HttpException) {
             this.logger.error(`[${this.catch.name}] ERROR :: CONTROLLED EXCEPTION OCCURRED `);
             response.httpStatusCode = exception.getStatus();
             response.message = ErrorUtils.resolveErrorMessage(exception);

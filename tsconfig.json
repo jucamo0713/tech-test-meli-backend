@@ -15,6 +15,9 @@
     "paths": {
       "@shared/*": [
         "./src/contexts/shared/*"
+      ],
+      "@products/*": [
+        "./src/contexts/products/*"
       ]
     },
     "resolveJsonModule": true,
